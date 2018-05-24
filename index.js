@@ -26,13 +26,11 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 function sayHiToGrandma(string) {
-  if (string = lowercase); {
-    return "I can't hear you!";
-  
-  } else if (string = uppercase); {
-    return "YES INDEED!";
-  
-  } else if (string = mixedCase);{
-    return "I love you, too.";
-  }
+  if (condition1) {
+    block of code to be executed if condition1 is true
+} else if (condition2) {
+    block of code to be executed if the condition1 is false and condition2 is true
+} else {
+    block of code to be executed if the condition1 is false and condition2 is false
+}
 }
