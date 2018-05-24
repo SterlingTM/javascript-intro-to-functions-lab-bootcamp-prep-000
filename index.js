@@ -30,7 +30,7 @@ function sayHiToGrandma(string) {
     return "I can't hear you!";
   } else if (string == uppercase.toUpperCase) {
     return "YES INDEED!";
-  } else if (string == mixedcase) {
+  } else if (string == mixedCase) {
     return "I love you, too";
   }
 }
